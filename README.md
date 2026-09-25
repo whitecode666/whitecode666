@@ -92,7 +92,7 @@
 
 <div align="center">
 
-*⚡ Profile này được dựng bằng **GitHub CLI** — repo `whitecode666/whitecode666` • README hiện ngay đầu trang cá nhân*
+*© 2026 Thầy Flins — WhitefuLaucher 🎮*
 
 </div>
 
